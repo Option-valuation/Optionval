@@ -20,7 +20,7 @@ Option Valuation Pakcage
 Calculalate and visualize option valuation process
 
 ## URL
-https://github.com/kyustorm/option-valuation
+https://github.com/Option-valuation/Optionval
 
 # Author
 성유지, 이영신, 조규선
