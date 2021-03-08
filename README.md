@@ -14,7 +14,7 @@ Option Valuation Pakcage
 2021-01-15 15:52:26 (GMT+9)
 
 ## Imports 
- pip install git+https://github.com/kyustorm7/option-valuation 
+ pip install git+https://github.com/Option-valuation/Optionval
 
 ## Descroption 
 Calculalate and visualize option valuation process
