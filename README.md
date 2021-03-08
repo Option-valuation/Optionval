@@ -16,7 +16,7 @@ Option Valuation Pakcage
 ## Imports 
  pip install git+https://github.com/Option-valuation/Optionval
 
-## Descroption 
+## Description 
 Calculalate and visualize option valuation process
 
 ## URL
