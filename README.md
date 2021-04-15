@@ -1,6 +1,6 @@
 # Optionval
-Option Value Calculating and Visyalizing Package for Python
-고려대학교 금융공학 경진대회 (https://fineng.korea.ac.kr/fineng/notice/notice.do?mode=view&articleNo=256993&article.offset=0&articleLimit=10&totalNoticeYn=N&totalBoardNo=) 최우수상 수상
+Option Value Calculating and Visyalizing Package for Python   
+[고려대학교 금융공학 경진대회] (https://fineng.korea.ac.kr/fineng/notice/notice.do?mode=view&articleNo=256993&article.offset=0&articleLimit=10&totalNoticeYn=N&totalBoardNo=) 최우수상 수상
 ## Type
 Python 3 Package
 
