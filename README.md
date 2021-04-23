@@ -1,6 +1,15 @@
-# Optionval
-Option Value Calculating and Visyalizing Package for Python   
-- [고려대학교 금융공학 논문 경진대회](https://fineng.korea.ac.kr/fineng/notice/notice.do?mode=view&articleNo=256993&article.offset=0&articleLimit=10&totalNoticeYn=N&totalBoardNo=) 최우수상 수상
+## 고려대학교 금융공학 논문 경진대회 프로그래밍 부문 최우수상 수상 (1등)
+
+- **주최:** [고려대학교 금융공학 융합전공 · 협동과정](https://fineng.korea.ac.kr/fineng/notice/notice.do?mode=view&articleNo=256993&article.offset=0&articleLimit=10)
+- **프로그래밍 부문 과제**: 금융상품개발 또는 금융통계분석을 위한 Matlab, R, Python 툴박스(Package) 제작
+
+## Introduction
+
+- Python 패키지: 옵션 가치평가 모델 (Binomial Tree, Black Scholes 등) 구현 및 시각화
+- Python을 통해 쉽게 옵션의 가치를 계산하고, 과정을 살펴볼 수 있습니다.
+
+---
+
 ## Type
 Python 3 Package
 
