@@ -1,7 +1,8 @@
 ## 고려대학교 금융공학 논문 경진대회 프로그래밍 부문 최우수상 수상 (1등)
 
-- **주최:** [고려대학교 금융공학 융합전공 · 협동과정](https://fineng.korea.ac.kr/fineng/notice/notice.do?mode=view&articleNo=256993&article.offset=0&articleLimit=10)
+- **주최:** 고려대학교 금융공학 융합전공 · 협동과정
 - **프로그래밍 부문 과제**: 금융상품개발 또는 금융통계분석을 위한 Matlab, R, Python 툴박스(Package) 제작
+- **웹사이트:** [고려대학교 금융공학 논문 경진대회](https://fineng.korea.ac.kr/fineng/notice/notice.do?mode=view&articleNo=256993&article.offset=0&articleLimit=10)
 
 ## Introduction
 
