@@ -5,7 +5,7 @@ Option Value Calculating and Visyalizing Package for Python
 Python 3 Package
 
 ## Title
-Option Valuation Pakcage
+Option Valuation Package
 
 ## Version
 0.1.1
