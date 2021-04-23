@@ -14,7 +14,7 @@ Option Valuation Package
 2021-01-15 15:52:26 (GMT+9)
 
 ## Imports 
- pip install git+https://github.com/Option-valuation/Optionval
+'pip install git+https://github.com/Option-valuation/Optionval'
 
 ## Description 
 Calculalate and visualize option valuation process
