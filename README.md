@@ -32,5 +32,5 @@ Calculalate and visualize option valuation process
 ## URL
 https://github.com/Option-valuation/Optionval
 
-# Author
+## Author
 성유지, 이영신, 조규선
